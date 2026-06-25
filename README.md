@@ -72,10 +72,10 @@ I'm a passionate **Computer Science graduate** and a **Junior Full Stack Web Dev
 ---
 
 ### 📊 GitHub Stats
-[![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamalgit&show_icons=true&theme=radium)](https://github.com/gamalgit)
+[![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MG-0&show_icons=true&theme=radium)](https://github.com/MG-0)
 
 ### 📫 Let's Connect!
 
 - 🌐 **Portfolio:** [Visit My Portfolio](https://portifolio-website-mg0.vercel.app/)
 - 📧 **Email:** gamalgit@gmail.com
-- 💼 **LinkedIn:** [Mahmoud Gamal](linkedin.com/in/mahmoud-gamal-dev) 
+- 💼 **LinkedIn:** [Mahmoud Gamal](linkedin.com/in/mahmoud-gamal-dev) <!-- لا تنسَ إضافة رابط حسابك الفعلي هنا -->
