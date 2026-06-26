@@ -60,6 +60,7 @@ I'm a passionate **Computer Science graduate** and a **Junior Full Stack Web Dev
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![System Design](https://img.shields.io/badge/-System_Design-121011?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/-Design_Patterns-005571?style=for-the-badge)
 
