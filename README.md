@@ -7,7 +7,7 @@ I'm a passionate **Computer Science graduate** and a **Junior Full Stack Web Dev
 - 🎓 B.Sc. in Computer Science (Class of 2026), Arab Open University, Egypt.
 - 💻 I specialize in the **JavaScript/TypeScript** ecosystem, focusing on building scalable interfaces and robust APIs.
 - 🧠 Built an **AI-Powered Brain Tumor Detection Platform** as my graduation project, integrating a deep learning medical imaging model with a full-stack web platform built on Node.js and Express.
-- 🚀 Always learning: Currently expanding my knowledge in **Docker, Kubernetes, System Design, and Design Patterns**.
+- 🚀 Always learning: Currently expanding my knowledge in **Docker, Kubernetes, React Native and Design Patterns**.
 - 🔭 Actively open to Full Stack Developer roles, technical instruction, and programming mentorship opportunities.
 
 ### 🛠️ Tech Stack & Tools
