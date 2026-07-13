@@ -7,7 +7,7 @@ I'm a passionate **Computer Science graduate** and a **Junior Full Stack Web Dev
 - 🎓 B.Sc. in Computer Science (Class of 2026), Arab Open University, Egypt.
 - 💻 I specialize in the **JavaScript/TypeScript** ecosystem, focusing on building scalable interfaces and robust APIs.
 - 🧠 Built an **AI-Powered Brain Tumor Detection Platform** as my graduation project, integrating a deep learning medical imaging model with a full-stack web platform built on Node.js and Express.
-- 🚀 Always learning: Currently expanding my knowledge in **Docker, Kubernetes, and React Native**.
+- 🚀 Always learning: Currently expanding my knowledge in **Laravel, Docker, Kubernetes, and React Native**.
 - 🔭 Actively open to Full Stack Developer roles, technical instruction, and programming mentorship opportunities.
 
 ### 🛠️ Tech Stack & Tools
@@ -15,6 +15,7 @@ I'm a passionate **Computer Science graduate** and a **Junior Full Stack Web Dev
 **💻 Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -39,13 +40,16 @@ I'm a passionate **Computer Science graduate** and a **Junior Full Stack Web Dev
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST_APIs-005C84?style=for-the-badge&logo=json&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Eloquent ORM](https://img.shields.io/badge/-Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Laravel Sanctum](https://img.shields.io/badge/-Laravel_Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -58,6 +62,7 @@ I'm a passionate **Computer Science graduate** and a **Junior Full Stack Web Dev
 **🛠️ Tools & DevOps**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Composer](https://img.shields.io/badge/-Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
