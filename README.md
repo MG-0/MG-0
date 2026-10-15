@@ -85,7 +85,7 @@ I'm a passionate **Computer Science graduate** and a ** Full Stack Web Developer
 ### 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://portifolio-website-mg0.vercel.app/">
+  <a href="https://portifolio-mg.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:gamalgit@gmail.com">
