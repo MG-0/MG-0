@@ -1,6 +1,6 @@
 # Hi there, I'm Mahmoud Gamal! 👋
 
-I'm a passionate **Computer Science graduate** and a **Junior Full Stack Web Developer** specializing in the MERN stack and Next.js. I absolutely love writing code and building production-ready web applications that solve real-world problems. 
+I'm a passionate **Computer Science graduate** and a ** Full Stack Web Developer** specializing in the MERN stack and Next.js. I absolutely love writing code and building production-ready web applications that solve real-world problems. 
 
 ### 👨‍💻 About Me
 
